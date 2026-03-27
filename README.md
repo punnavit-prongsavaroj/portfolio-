@@ -8,10 +8,10 @@ Network Engineering Lab Series
 
 | # | Title | Date | Link |
 |---|-------|------|------|
-| 1 | Essay | 28 Nov 2025 | [Open](https://docs.google.com/document/d/1CuFMpCdbbVWx6gqzOhGfBZptw7b1v-DY4cGacJzp8Tw/edit?tab=t.pb9qrv2iy2xu) |
-| 2 | Topology | 5 Dec 2025 | [Open](https://docs.google.com/document/d/1M1TbAzRN5niSwk0gXhkETBWikQgHy-IJjH47s5qbfDc/edit?tab=t.0) |
-| 3 | Not_Simple | 12 Dec 2025 | [Open](https://docs.google.com/document/d/1A2gOtUkZczEkfjsHipY0x3rUNTm0V4p72U8p3kpYSz0/edit?tab=t.0) |
-| 4 | TCP-UDP | 6 Feb 2026 | [Open](https://docs.google.com/document/d/1FFL_r2UdApFczc6wnztkUtEXVDpxEGZ1aJ4tHCFimm4/edit?tab=t.0#heading=h.yvqx3oixpdc4) |
+| 1 | Lab1 | 28 Nov 2025 | [Open](https://docs.google.com/document/d/1CuFMpCdbbVWx6gqzOhGfBZptw7b1v-DY4cGacJzp8Tw/edit?tab=t.pb9qrv2iy2xu) |
+| 2 | Lab2 | 5 Dec 2025 | [Open](https://docs.google.com/document/d/1M1TbAzRN5niSwk0gXhkETBWikQgHy-IJjH47s5qbfDc/edit?tab=t.0) |
+| 3 | Lab3 | 12 Dec 2025 | [Open](https://docs.google.com/document/d/1A2gOtUkZczEkfjsHipY0x3rUNTm0V4p72U8p3kpYSz0/edit?tab=t.0) |
+| 4 | Lab4 | 6 Feb 2026 | [Open](https://docs.google.com/document/d/1FFL_r2UdApFczc6wnztkUtEXVDpxEGZ1aJ4tHCFimm4/edit?tab=t.0#heading=h.yvqx3oixpdc4) |
 
 ---
 
