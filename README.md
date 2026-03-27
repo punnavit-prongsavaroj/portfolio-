@@ -1,121 +1,49 @@
-# ⬡ Synapse-X Network — G18 Portfolio
+# Synapse-X Network — G18
 
-> Network Engineering Lab Series · VLAN Design · Packet Analysis · Neural Control Systems
-
----
-
-## 🔗 Live Portfolio
-**[View Portfolio Site →](https://mammamia pizza.github.io/Synapse-X_network_)**
+Network Engineering Lab Series
 
 ---
 
-## 📋 Labs Overview
+## Personal Labs
 
-| # | Lab | Topics | Docs |
-|---|-----|--------|------|
-| 01 | **G18 Lab 1** | Network topology, basic routing setup | [GitHub](https://github.com/MammamiaPizza/Synapse-X_network_) |
-| 02 | **Secure & Scalable VLAN Design** | Router-on-a-Stick, 802.1Q Trunking, VLAN segmentation | [Report ↗](https://docs.google.com/document/d/1lUFbBXohEf9-lrxKFXwuU2WpzZNiKs-pFFzabMDxb5c/edit?usp=sharing) |
-| 03 | **MIME File Transfer + Wireshark** | MIME over Router-on-a-Stick, packet capture analysis | [Report ↗](https://docs.google.com/document/d/1SOYfX37r_Yc8x_FMUMyrI1ChwBDf56dBi8Gq75gF4Iw/edit?usp=sharing) |
-| 04 | **Simulated Internet 10.10.0.0/16** | Private LANs, Stateful vs Stateless services, NAT | [File ↗](https://drive.google.com/file/d/1Z__ONCOnggUDyD1UPL4VfHuOHK49mW2A/view?usp=sharing) |
-| 05 | **Synapse-X Neural Network Control** | Bioinspired network, real-time signal routing | [Docs ↗](https://docs.google.com/document/d/1soAR-z1VRT8vcYpf3tayYSbEt57GbvaP4niyAcdYIH4/edit?usp=sharing) |
-
----
-
-## 🧪 Lab Details
-
-### Lab 01 — G18 Lab 1
-Initial network lab. Covered basic device configuration, IP addressing, and topology construction using Cisco Packet Tracer.
+| # | Title | Date | Link |
+|---|-------|------|------|
+| 1 | Essay | 28 Nov 2025 | [Open](https://docs.google.com/document/d/1CuFMpCdbbVWx6gqzOhGfBZptw7b1v-DY4cGacJzp8Tw/edit?tab=t.pb9qrv2iy2xu) |
+| 2 | Topology | 5 Dec 2025 | [Open](https://docs.google.com/document/d/1M1TbAzRN5niSwk0gXhkETBWikQgHy-IJjH47s5qbfDc/edit?tab=t.0) |
+| 3 | Not_Simple | 12 Dec 2025 | [Open](https://docs.google.com/document/d/1A2gOtUkZczEkfjsHipY0x3rUNTm0V4p72U8p3kpYSz0/edit?tab=t.0) |
+| 4 | TCP-UDP | 6 Feb 2026 | [Open](https://docs.google.com/document/d/1FFL_r2UdApFczc6wnztkUtEXVDpxEGZ1aJ4tHCFimm4/edit?tab=t.0#heading=h.yvqx3oixpdc4) |
 
 ---
 
-### Lab 02 — Secure & Scalable VLAN Design (Router-on-a-Stick)
-Designed a multi-VLAN network with inter-VLAN routing via a single router interface.
+## G18 Group Labs
 
-**Key concepts:**
-- IEEE 802.1Q trunk port configuration
-- VLAN segmentation for security isolation
-- Scalable subnet planning
-- Sub-interface setup on Cisco IOS
-
-📄 [Full Report](https://docs.google.com/document/d/1lUFbBXohEf9-lrxKFXwuU2WpzZNiKs-pFFzabMDxb5c/edit?usp=sharing)
-
----
-
-### Lab 03 — MIME File Transfer over Router-on-a-Stick with Wireshark Analysis
-Transferred MIME-encoded files across a segmented VLAN network and captured traffic with Wireshark.
-
-**Key concepts:**
-- MIME encoding structure
-- Live packet capture and filtering
-- Encapsulation header analysis
-- Payload inspection across VLANs
-
-📄 [Full Report](https://docs.google.com/document/d/1SOYfX37r_Yc8x_FMUMyrI1ChwBDf56dBi8Gq75gF4Iw/edit?usp=sharing)
+| # | Title | Link |
+|---|-------|------|
+| 1 | G18 Lab 1 | — |
+| 2 | Secure & Scalable VLAN Design (Router-on-a-Stick) | [Report](https://docs.google.com/document/d/1lUFbBXohEf9-lrxKFXwuU2WpzZNiKs-pFFzabMDxb5c/edit?usp=sharing) |
+| 3 | MIME File Transfer over Router-on-a-Stick with Wireshark Analysis | [Report](https://docs.google.com/document/d/1SOYfX37r_Yc8x_FMUMyrI1ChwBDf56dBi8Gq75gF4Iw/edit?usp=sharing) |
+| 4 | Simulated Internet (10.10.0.0/16) & Private LANs with Stateful vs Stateless Services | [File](https://drive.google.com/file/d/1Z__ONCOnggUDyD1UPL4VfHuOHK49mW2A/view?usp=sharing) |
+| — | NewNetworkFix | [Docs](https://docs.google.com/document/d/1soAR-z1VRT8vcYpf3tayYSbEt57GbvaP4niyAcdYIH4/edit?usp=sharing) |
 
 ---
 
-### Lab 04 — Simulated Internet (10.10.0.0/16) & Private LANs with Stateful vs Stateless Services
-Built a full simulated internet spanning a /16 address space with multiple private LANs attached.
+## Sprint Timeline
 
-**Key concepts:**
-- IPv4 address planning across 10.10.0.0/16
-- NAT/PAT for private-to-public translation
-- Stateful service behavior (connection tracking)
-- Stateless service behavior (per-packet processing)
-- Comparative performance analysis
-
-📁 [View File](https://drive.google.com/file/d/1Z__ONCOnggUDyD1UPL4VfHuOHK49mW2A/view?usp=sharing)
+| Milestone | Date |
+|-----------|------|
+| New Network | 9 Jan 2026 |
+| Sprint Alpha + 1 | 22 Feb 2026 |
 
 ---
 
-### Lab 05 — Synapse-X: Neural Network Control System
-Advanced project combining network engineering with bioinspired system design. Built the network infrastructure to support a simulated artificial nervous system with real-time signal routing.
+## Final Project
 
-**Key concepts:**
-- Neural pathway topology mapping
-- Low-latency routing for real-time control signals
-- Network architecture for distributed AI/control nodes
-- Physical and logical design for bioinspired systems
+**Synapse-X — Neural Network Control System**
 
-🔗 [GitHub Repo](https://github.com/MammamiaPizza/Synapse-X_network_) · 📄 [Documentation](https://docs.google.com/document/d/1soAR-z1VRT8vcYpf3tayYSbEt57GbvaP4niyAcdYIH4/edit?usp=sharing)
+Network infrastructure for a simulated artificial nervous system with real-time signal routing.
+
+[→ GitHub Repository](https://github.com/MammamiaPizza/Synapse-X_network)
 
 ---
 
-## 🛠️ Tech Stack
-
-```
-Networking        │ Cisco Packet Tracer · Wireshark · GNS3
-Protocols         │ 802.1Q · TCP/IP · NAT/PAT · MIME · ICMP
-Design            │ VLAN Segmentation · Subnetting · Router-on-a-Stick
-Services          │ Stateful Firewall · Stateless Routing · DHCP · DNS
-Advanced          │ Neural Network Topology · Real-time Signal Routing
-```
-
----
-
-## 📁 Repository Structure
-
-```
-Synapse-X_network_/
-├── index.html          ← Portfolio website
-├── README.md           ← This file
-├── lab01/              ← G18 Lab 1 files
-├── lab02/              ← VLAN Design configs
-├── lab03/              ← MIME + Wireshark captures
-├── lab04/              ← Simulated Internet topology
-└── lab05/              ← Synapse-X neural network project
-```
-
----
-
-## 👥 Team
-
-**Group G18** — Network Engineering Lab Series
-
----
-
-<div align="center">
-
-⬡ &nbsp; Built with precision. Routed with intent.
-
-</div>
+*G18 · Network Engineering*
