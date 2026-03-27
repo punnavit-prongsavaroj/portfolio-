@@ -19,8 +19,8 @@ Network Engineering Lab Series
 
 | # | Title | Link |
 |---|-------|------|
-| 1 | G18 Lab 1 | — |
-| 2 | Secure & Scalable VLAN Design (Router-on-a-Stick) | [Report](https://docs.google.com/document/d/1lUFbBXohEf9-lrxKFXwuU2WpzZNiKs-pFFzabMDxb5c/edit?usp=sharing) |
+| 1 | G18 Lab 1 | [lab1](https://docs.google.com/document/d/1CuFMpCdbbVWx6gqzOhGfBZptw7b1v-DY4cGacJzp8Tw/edit?tab=t.pb9qrv2iy2xu#heading=h.k1b2nz288wx0) |
+| 2 | Secure & Scalable VLAN Design (Router-on-a-Stick) | [lab2](https://docs.google.com/document/d/1lUFbBXohEf9-lrxKFXwuU2WpzZNiKs-pFFzabMDxb5c/edit?usp=sharing) |
 | 3 | MIME File Transfer over Router-on-a-Stick with Wireshark Analysis | [Report](https://docs.google.com/document/d/1SOYfX37r_Yc8x_FMUMyrI1ChwBDf56dBi8Gq75gF4Iw/edit?usp=sharing) |
 | 4 | Simulated Internet (10.10.0.0/16) & Private LANs with Stateful vs Stateless Services | [File](https://drive.google.com/file/d/1Z__ONCOnggUDyD1UPL4VfHuOHK49mW2A/view?usp=sharing) |
 | — | NewNetworkFix | [Docs](https://docs.google.com/document/d/1soAR-z1VRT8vcYpf3tayYSbEt57GbvaP4niyAcdYIH4/edit?usp=sharing) |
